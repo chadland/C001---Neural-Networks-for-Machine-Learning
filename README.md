@@ -43,3 +43,7 @@ Please be advised that the course is suited for an intermediate level learner - 
 * Week 15 - Modeling hierarchical structure with neural nets
 
 * Week 16 - Recent applications of deep neural nets
+
+## Octave
+
+Ocatave is used throughout the course and documentation may be found here: http://www.gnu.org/software/octave/doc/interpreter/ 
